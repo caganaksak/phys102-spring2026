@@ -12,11 +12,13 @@ plugins:
 just_the_docs:
   head_includes:
     - mathjax.html
+math: mathjax
 
 search_enabled: true
 
 aux_links:
   "GitHub repo":
     - "https://github.com/caganaksak/phys102-spring2026"
+
 
 
