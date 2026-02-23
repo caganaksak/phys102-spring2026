@@ -6,14 +6,23 @@
 {% endcase %}
 
 <style>
-  /* Prevent the Just the Docs site title from clipping at the top in the left nav. */
-  .side-bar .site-header {
-    padding-top: 0.5rem;
-  }
+  /* Prevent title clipping in the desktop (left sidebar) Just the Docs layout. */
+  @media (min-width: 50rem) {
+    .side-bar .site-header {
+      height: auto;
+      max-height: none;
+      min-height: 3.75rem;
+      padding-top: 0.4rem;
+      padding-bottom: 0.25rem;
+      overflow: visible;
+    }
 
-  .side-bar .site-title,
-  .main-header .site-title {
-    line-height: 1.25;
-    padding-top: 0.1rem;
+    .side-bar .site-title {
+      line-height: 1.25;
+      padding-top: 0.1rem;
+      padding-bottom: 0.1rem;
+      overflow: visible;
+      white-space: normal;
+    }
   }
 </style>
