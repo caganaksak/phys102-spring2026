@@ -4,3 +4,16 @@
   {% when "mathjax" %}
     {% include mathjax.html %}
 {% endcase %}
+
+<style>
+  /* Prevent the Just the Docs site title from clipping at the top in the left nav. */
+  .side-bar .site-header {
+    padding-top: 0.5rem;
+  }
+
+  .side-bar .site-title,
+  .main-header .site-title {
+    line-height: 1.25;
+    padding-top: 0.1rem;
+  }
+</style>
