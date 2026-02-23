@@ -1,9 +1,13 @@
 title: "Physics 102: Electricity and Magnetism"
 description: "Spring 2026 • Course website"
-theme: just-the-docs
 
 url: "https://caganaksak.github.io"
 baseurl: "/phys102-spring2026"
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 
 search_enabled: true
 
@@ -11,6 +15,3 @@ aux_links:
   "GitHub repo":
     - "https://github.com/caganaksak/phys102-spring2026"
 
-# Optional: show "last updated" on pages
-last_edit_timestamp: true
-last_edit_time_format: "%Y-%m-%d"
