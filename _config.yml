@@ -9,9 +9,14 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
+just_the_docs:
+  head_includes:
+    - mathjax.html
+
 search_enabled: true
 
 aux_links:
   "GitHub repo":
     - "https://github.com/caganaksak/phys102-spring2026"
+
 
