@@ -20,7 +20,7 @@ nav_order: 3
 | Exp 3 | Charging and Discharging a Capacitor | May 2 | May 9 |
 | Exp 4 | Magnetic Induction in a Coil | May 16 | June 6 |
 
-> ⚠️ **No lab sessions on April 4 and April 11.**
+> ⚠️ **No lab sessions on April 4, April 11 and May 23.**
 
 ---
 
