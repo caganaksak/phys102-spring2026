@@ -12,8 +12,8 @@ nav_order: 1
 ## Sections
 - [Announcements](announcements)
 - [Weekly schedule](schedule)
-- [Lecture Notes](lecture-notes/)
-- [Study Problems](study-problems/)
+- [Lecture Notes](lecture-notes/) 🔜
+- [Study Problems](study-problems/) 🔜
 - [Resources](resources)
 
 ## How to use this site
