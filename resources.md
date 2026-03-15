@@ -10,7 +10,7 @@ nav_order: 4
 - Lecture notes (site): see [Lecture Notes](lecture-notes/)
 - Study problems: see [Study Problems](study-problems/)
 
-## Useful references (add your own)
-- Vector calculus refresher
-- Common constants and unit conversions
+## Useful references 
+- Vectors study notes
+- Common constants and unit conversions [Unit converter](https://www.awesomeconverter.com)
 - Problem solving tips and common mistakes
