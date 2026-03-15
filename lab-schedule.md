@@ -31,7 +31,7 @@ Division lists are posted on **MEBIS**. Log in to find which division (1, 2, 3, 
 
 ---
 
-## 🧪 Experiment Calendar
+## 🔧 Experiment Calendar
 
 | # | Experiment | Week 1 Date | Week 2 Date |
 |---|---|---|---|
