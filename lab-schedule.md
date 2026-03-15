@@ -16,7 +16,7 @@ nav_order: 3
 
 Division lists are posted on **MEBIS**. Log in to find which division (1, 2, 3, or 4) you belong to, then use the table below to know your lab dates and time.
 
-> 🔒 *Student lists are kept on MEBIS only — not published here — to protect your personal information.*
+> 🔒 *Student lists are kept on MEBIS only — not published here.*
 
 ---
 
